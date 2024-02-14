@@ -1,2 +1,1 @@
 # tutorial nga project
-# wa
